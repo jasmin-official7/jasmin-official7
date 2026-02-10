@@ -1,6 +1,8 @@
-<h1 align="left">Hi 👋 I’m Jasmin</h1>
+<h1 align="center">Hi 👋 I’m Jasmin</h1>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">About me</h2>
 
