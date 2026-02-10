@@ -63,7 +63,7 @@
 
 ###
 
-<h2 align="left">📈Activity graph</h2>
+<h2 align="left">📈Contribution Graph</h2>
 
 ###
 
