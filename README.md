@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h2 align="left">About me</h2>
+<h1 align="center">About me</h1>
 
 ###
 
@@ -12,21 +12,7 @@
 
 ###
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jasmin-official7/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@jasmin-official7/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jasmin-official7/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@jasmin-official7/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jasmin-official7/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@jasmin-official7/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">Tech Stack!</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
@@ -67,13 +53,22 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">Steak</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasmin-official7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasmin-official7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jasmin-official7&locale=en&mode=daily&theme=gruvbox_light&hide_border=true&border_radius=20&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<h2 align="left">Activity graph</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jasmin-official7&radius=20&theme=cotton-candy&area=true&order=5&point=766EC8&bg_color=fbe2e2&line=c90076&area_color=a81e62&title_color=ef0076" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
