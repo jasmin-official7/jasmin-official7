@@ -8,7 +8,7 @@
 
 ###
 
-<h6 align="left">💻 Learning DSA, Web Development, Python, and C/C++  <br>🤖 Exploring AI, ML, and emerging technologies  <br>🚀 Building projects with a step-by-step approach  <br>✨ Working towards impactful tech solutions</h6>
+<h4 align="left">💻 Learning DSA, Web Development, Python, and C/C++  <br>🤖 Exploring AI, ML, and emerging technologies  <br>🚀 Building projects with a step-by-step approach  <br>✨ Working towards impactful tech solutions</h4>
 
 ###
 
