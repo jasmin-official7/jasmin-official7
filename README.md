@@ -3,14 +3,22 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=About%20Me&fontSize=40&fontColor=d5a6bd&fontAlignY=80&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=About%20Me&fontSize=40&fontColor=d5a6bd&fontAlignY=80&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=b4a7d6"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img align="left" height="140" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxzbXVlaHJzejg5ZW5pdzZ4emswdm1jNHYydTNrYXByZnVseGU3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif"  />
 
 ###
 
 <h4 align="left">💻 Learning DSA, Web Development, Python, and C/C++  <br>🤖 Exploring AI, ML, and emerging technologies  <br>🚀 Building projects with a step-by-step approach  <br>✨ Working towards impactful tech solutions</h4>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">💻Tech Stack</h2>
 
@@ -63,7 +71,7 @@
 
 ###
 
-<h2 align="left">📈Contribution Graph</h2>
+<h2 align="left">📈Activity graph</h2>
 
 ###
 
@@ -82,7 +90,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jasmin-official7.jasmin-official7&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jasmin-official7.jasmin-official7&left_color=darkmagenta&right_color=darkkhaki"  />
 </div>
 
 ###
