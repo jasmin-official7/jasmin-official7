@@ -87,10 +87,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jasmin-official7/jasmin-official7/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jasmin-official7.jasmin-official7&left_color=darkmagenta&right_color=darkkhaki"  />
-</div>
-
-###
